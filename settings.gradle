@@ -1,0 +1,2 @@
+rootProject.name='MiTareaUno'
+include ':app'
